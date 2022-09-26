@@ -22,11 +22,11 @@ The analysis has been conducted to illustrate the "Total Fare" during a period o
 
 ## Results
 
-![](/Analysis/2017-StocksStatus.PNG) 
+![](/Analysis/Pyber_Summary_DataFrame.png) 
 
 ---
 
-![](/Resources/2017-StocksStatus.PNG) 
+![](/Analysis/PyBer_fare_summary.png) 
 
 According to above multi-line chart and the summary DataFrame, the following insights has been extracted.
   * Considering total amount of Fare, Urban city type is ranked first, Suburban city type is ranked second, and the Rural city type is at the third place.
@@ -43,4 +43,7 @@ According to above multi-line chart and the summary DataFrame, the following ins
 
 ## Summary
 
-
+There are some recommendations as below.
+1. In rural areas, we need more drivers. We might use some incentive in order to register more and more drivers in these areas.
+2. In Urban areas, we might be offering more drivers, considering the demand. For now, we must stop registering new drivers in these areas.
+3. In Urban cities, the level of Fare per ride seems very low, considering Urban driving difficulties such as traffic. We need to revise our pricing in Urban cities.
