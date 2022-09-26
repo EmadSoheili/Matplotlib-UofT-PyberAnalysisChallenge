@@ -1,6 +1,4 @@
 # Matplotlib-UofT-PyberAnalysisChallenge
-# PyCitySchools with Pandas - Challenge
-
 ### University of Toronto - Data Analytics Boot Camp - Module 4 - PyCitySchool
 
 ---
@@ -24,7 +22,6 @@ The analysis has been conducted to illustrate the "Total Fare" during a period o
 
 ![](/Analysis/Pyber_Summary_DataFrame.png) 
 
----
 
 ![](/Analysis/PyBer_fare_summary.png) 
 
